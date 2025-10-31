@@ -6,7 +6,7 @@ class spj4
         Scanner in = new Scanner (System.in);
         int i,s=1;
         char ch;
-        System.out.println("a. 1, 4, 9, 16, ");
+        System.out.println("\n a. 1, 4, 9, 16, ");
         System.out.println("b. 1, 2, 4, 7, 11, ");
         System.out.println("Enter your choice");
         ch=in.next().charAt(0);

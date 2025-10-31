@@ -5,7 +5,7 @@ class spj2
     {
         Scanner in = new Scanner (System.in);
         int ch,i;
-        System.out.println("1.  print z to a");
+        System.out.println("\n1.  print z to a");
         System.out.println("2.  print A to Z");
         System.out.println("Enter your choice");
         ch=in.nextInt();
