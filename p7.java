@@ -6,7 +6,7 @@ class p7
         Scanner in = new Scanner (System.in);
         int n = in.nextInt();
         int a,r=0;
-        while (n!=0)
+        while (n!=0)             
         {
             a=n%10;
             if (a!=0)
