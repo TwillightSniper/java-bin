@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=arr_vownames
+comment1.params=ch
+comment1.target=boolean\ isVow(char)
+comment2.params=s
+comment2.target=boolean\ isName(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

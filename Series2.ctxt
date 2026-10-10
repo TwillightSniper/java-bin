@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Series2
+comment1.params=
+comment1.target=void\ input()
+comment2.params=num
+comment2.target=long\ fact(int)
+comment3.params=
+comment3.target=double\ sum()
+comment4.params=
+comment4.target=void\ disp()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

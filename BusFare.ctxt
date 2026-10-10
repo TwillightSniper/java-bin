@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BusFare
+comment1.params=n\ nm\ k
+comment1.target=BusFare(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ calcFare()
+comment3.params=
+comment3.target=void\ show()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
